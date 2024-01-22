@@ -14,7 +14,7 @@ My research focus is in Theoretical Machine Learning, specifically on Federated 
 Prior to OSU, I have received my undergraduate degree in Electrical & Electronics Engineering from [Chung-Ang University](https://neweng.cau.ac.kr/index.do), Seoul, Korea.
 
 ### News
-
+* 2024.01 Our article regarding exploration of Federated Learning in Spine Surgery research is out! You can look it up [here](https://issuu.com/isassorg/docs/vertebral_columns_winter_2024/23).
 
 ### Publications
 * Proportional Fair Clustered Federated Learning, <em>ISIT 2022</em> [[pdf]](https://drive.google.com/file/d/18Z0k9MvAVdYzMBQkVGdJM3hi4jKopZrD/view)
